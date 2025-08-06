@@ -17,7 +17,7 @@ Blenderで遊星歯車（プラネタリーギア）のセットを生成する�
 
 ## インストール方法
 
-1.  このリポジトリの [Releasesページ](https://github.com/あなたのユーザー名/リポジトリ名/releases) から、最新版の `planetary_gear_generator.zip` をダウンロードします。
+1.  このリポジトリの [Releasesページ](https://github.com/kame404/planetary_gear_generator/releases/) から、最新版の `planetary_gear_generator.zip` をダウンロードします。
 2.  Blenderにドラッグアンドドロップします。
 
 ---
@@ -46,5 +46,6 @@ Blenderで遊星歯車（プラネタリーギア）のセットを生成する�
 また、そのアルゴリズムをJavaScriptで実装したWebアプリケーション「[Planetary Gear Simulator](https://www.thecatalystis.com/gears/)」を参考に、Pythonスクリプトとして移植しました。
 
 ## ライセンス
+
 
 このアドオンのソースコードは MITライセンス とします。
